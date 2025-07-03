@@ -28,11 +28,7 @@ If you don't know the supabase account and password, please the Supabase Team(Di
 ## Run Your Frontend
 Start your development server:
 
-npm run dev
-
-
-
-
+- `npm run dev`
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
