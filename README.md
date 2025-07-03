@@ -2,6 +2,7 @@
 
 ## Install Supabase Client Library
 Run this command in your frontend project:
+
 npm install @supabase/supabase-js
 
 ## Supabase Client
@@ -11,6 +12,7 @@ You already have one on lib/supabaseClient.js
 create a .env.local file:
 
 NEXT_PUBLIC_SUPABASE_URL=your-supabase-project-url
+
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 
 --Replace your-supabase-project-url and your-supabase-anon-key with values from your Supabase dashboard:
@@ -29,6 +31,9 @@ If you don't know the supabase account and password, please the Supabase Team(Di
 Start your development server:
 
 npm run dev
+
+
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
