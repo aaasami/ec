@@ -3,16 +3,15 @@
 ## Install Supabase Client Library
 Run this command in your frontend project:
 
--'npm install @supabase/supabase-js'
+- `npm install @supabase/supabase-js`
 
 ## Supabase Client
 You already have one on lib/supabaseClient.js
 
 ## Set Up Environment Variables
 create a .env.local file:
-
--'NEXT_PUBLIC_SUPABASE_URL=your-supabase-project-url'
--'NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key'
+- `NEXT_PUBLIC_SUPABASE_URL=your-supabase-project-url`
+- `NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key`
 
 --Replace your-supabase-project-url and your-supabase-anon-key with values from your Supabase dashboard:
 
